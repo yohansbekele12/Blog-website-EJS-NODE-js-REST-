@@ -164,4 +164,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-This **README.md** provides a clear overview and detailed instructions for setting up, running, and using your blog post API. You can place this in your GitHub repository to help others understand and use your project effectively.
+
